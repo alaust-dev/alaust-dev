@@ -6,6 +6,8 @@
 </div>
 <h2 align="center">♤ 𝒜𝒷𝑜𝓊𝓉 𝑀𝑒 ♤</h2>
 <img src="https://github.com/EinKuchen/EinKuchen/blob/main/791c8473f1d9617b9e6942f44ec85ea6.gif" align="right" height="200">
+<br>
+<br>
 <li> 
 <b>Name:</b> Alex | aka Arekusu/EinKuchen
 </li>
@@ -18,8 +20,6 @@
 <li> 
 <b>Living in:</b> Germany 
 </li>
-<br>
-<br>
 <br>
 <br>
 <h6 align="right">There is no logic to it. She's just cute!!</h6>
