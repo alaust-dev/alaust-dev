@@ -21,6 +21,7 @@
 <br>
 <br>
 <br>
+<br>
 <h6 align="right">There is no logic to it. She's just cute!!</h6>
 <h2 align="center">➦ 𝒞𝑜𝓃𝓉𝒶𝒸𝓉 𝑀𝑒 ➦</h2>
 <img src="https://github.com/EinKuchen/EinKuchen/blob/main/tumblr_c1fd1a9cbc173dc87cb4e38fb6395dce_ea940e82_500.gif" align="right" height="200">
@@ -29,6 +30,8 @@
 <br>
 <p align="center">You can contact me any time on Discord! <br>
 <b>Discord Tag:</b> Arekusu | アレクス#1517</p>
+<br>
+<br>
 <br>
 <br>
 <br>
