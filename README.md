@@ -37,6 +37,6 @@
 <br>
 <h2 align="center">𝒯𝒽𝒶𝓃𝓀𝓈 𝒻𝑜𝓇 𝓇𝑒𝒶𝒹𝒾𝓃𝑔!</h2>
 <div align="center">
-<img src="https://github.com/EinKuchen/EinKuchen/blob/main/qWeH6Gn.gif">
+<img src="https://github.com/EinKuchen/EinKuchen/blob/main/qWeH6Gn.gif" height="225">
 </div>
 </body>
