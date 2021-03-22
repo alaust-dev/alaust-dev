@@ -2,10 +2,10 @@
 <h1 align="center">⤜𝒲𝑒𝓁𝒸𝑜𝓂𝑒 𝓉𝑜 𝓂𝓎 𝒫𝓇𝑜𝒻𝒾𝓁𝑒⟶</h1>
 <br>
 <div align="center">
-<img src="https://github.com/EinKuchen/EinKuchen/blob/main/88a87485be7d8a54114f394a6887df49.gif" align="center">
+<img src="https://github.com/EinKuchen/EinKuchen/blob/main/assets/88a87485be7d8a54114f394a6887df49.gif" align="center">
 </div>
 <h2 align="center">♤ 𝒜𝒷𝑜𝓊𝓉 𝑀𝑒 ♤</h2>
-<img src="https://github.com/EinKuchen/EinKuchen/blob/main/791c8473f1d9617b9e6942f44ec85ea6.gif" align="right" height="200">
+<img src="https://github.com/EinKuchen/EinKuchen/blob/main/assets/791c8473f1d9617b9e6942f44ec85ea6.gif" align="right" height="200">
 <br>
 <br>
 <li> 
@@ -24,7 +24,7 @@
 <br>
 <h6 align="right">There is no logic to it. She's just cute!!</h6>
 <h2 align="center">➦ 𝒞𝑜𝓃𝓉𝒶𝒸𝓉 𝑀𝑒 ➦</h2>
-<img src="https://github.com/EinKuchen/EinKuchen/blob/main/tumblr_c1fd1a9cbc173dc87cb4e38fb6395dce_ea940e82_500.gif" align="right" height="200">
+<img src="https://github.com/EinKuchen/EinKuchen/blob/main/assets/tumblr_c1fd1a9cbc173dc87cb4e38fb6395dce_ea940e82_500.gif" align="right" height="200">
 <br>
 <br>
 <br>
@@ -37,6 +37,6 @@
 <br>
 <h2 align="center">𝒯𝒽𝒶𝓃𝓀𝓈 𝒻𝑜𝓇 𝓇𝑒𝒶𝒹𝒾𝓃𝑔!</h2>
 <div align="center">
-<img src="https://github.com/EinKuchen/EinKuchen/blob/main/qWeH6Gn.gif" height="225">
+<img src="https://github.com/EinKuchen/EinKuchen/blob/main/assets/qWeH6Gn.gif" height="225">
 </div>
 </body>
