@@ -4,7 +4,7 @@
 
   
 <div>
-<img src="assets/Street.gif" align="right" height="454px"/>
+<img src="assets/Street.gif" align="right" height="420px"/>
 </div>
   
 <pre>
