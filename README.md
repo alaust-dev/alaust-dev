@@ -21,7 +21,7 @@ E-Mail         : <a href="mailto:mail@alexander-aust.de">mail@alexander-aust.de<
 Discord-Tag    : Arekusu#2922
 
 Auszubildender : Fachinformatiker für Anwendungsentwicklung
-Lehrjahr       : 2. Lehrjahr <br/>
+Lehrjahr       : 3. Lehrjahr <br/>
 </pre>
   
 
