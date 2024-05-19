@@ -18,7 +18,7 @@
 <h2 align="center">About Me</h2>
 Name           : Alex
 E-Mail         : <a href="mailto:mail@alexander-aust.de">mail@alexander-aust.de</a>
-Discord-Tag    : Arekusu#2922
+Discord-Tag    : .arekusu
 
 Auszubildender : Fachinformatiker für Anwendungsentwicklung
 Lehrjahr       : 3. Lehrjahr <br/>
