@@ -20,8 +20,7 @@ Name           : Alex
 E-Mail         : <a href="mailto:mail@alexander-aust.de">mail@alexander-aust.de</a>
 Discord-Tag    : .arekusu
 
-Auszubildender : Fachinformatiker für Anwendungsentwicklung
-Lehrjahr       : 3. Lehrjahr <br/>
+Beruf          : Junior Software Developer
 </pre>
   
 
